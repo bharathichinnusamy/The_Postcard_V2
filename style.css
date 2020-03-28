@@ -1,0 +1,77 @@
+body{
+    background-color: black
+}
+.postcardBackground {
+background-color:white;
+width: 500px;
+height: 350px;
+border:50px;
+margin-left: 375px;
+margin-top: 200px;
+}
+.firstLeftdiv{
+    width:230px;
+    float: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: cursive;
+    font-size: 25px;
+    height:70px;
+}
+.firstRightdiv{
+    width:240px;
+    height:80px;
+    float: right;
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+img{
+    width:60px;
+    height:70px;
+}
+.secondLeftdiv{
+    font-family: cursive;;
+    font-size: 18px;
+    width:220px;
+    padding-left: 20px;
+    height:130px;
+    float:left;
+}
+.secondRightdiv{
+    width:250px;
+    float:right;
+    height:130px;
+}
+p{
+    border-bottom: 0.5px solid;
+    width:210px; 
+    opacity:0.5;
+    font-family: cursive;
+}
+.thirddiv{
+    float: left;
+    padding-left: 20px;
+    width:225px;
+    font-family: cursive;
+    font-size: 18px;
+    height:60px;
+}
+button{
+  background-color:rgb(196, 195, 195);
+  border: none;
+  color:black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 4px 16px;
+  font-family: cursive;
+}
+.fourthdiv{
+    text-align: right;
+    width:350px;
+    height:50px; 
+}
